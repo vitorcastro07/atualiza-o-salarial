@@ -1,6 +1,4 @@
-# atualização de dados #
-
-<!DOCTYPE html>
+<ATUALIZAÇÃO SALARIAL>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
