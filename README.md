@@ -1,4 +1,4 @@
-<ATUALIZAÇÃO SALARIAL>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -101,7 +101,6 @@
   <p style="text-align: center; font-size: 1.1em;">
     Logo logo você terá retornos... 😏😈
   </p>
-    </div>
 </div>
 
 <script>
